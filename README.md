@@ -6,11 +6,11 @@ TMDB React is a project made for a coding test. Using The Movie Database API, th
 
 ### Cloning the repo
 
-##### `git clone ...`
+##### `git clone https://github.com/GaburaisuVGC/tmdb-react.git`
 
 ### Installing modules and starting the server
 
-##### `cd ..` If you weren't on the project folder
+##### `cd ../tmdb-react` or `cd tmdb-react` If you weren't on the project folder
 
 ##### `npm install`
 
